@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: landing
 title: About
-description: What is Spiritual Calling
+description: What is Spiritual Calling?
 image: assets/images/pic11.jpg
 nav-menu: true
 show_tile: true
