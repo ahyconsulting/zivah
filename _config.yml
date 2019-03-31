@@ -1,10 +1,10 @@
 # site settings
-title: Zivah | Helping Souls To Relive Their True Journey
-subtitle: Zivah
+title: Zivah
+subtitle: Helping Souls To Relive Their True Journey
 email: thezivah@gmail.com
 description: Helping Souls<br /> To Relive Their True Journey - Zivah.
-baseurl: "/zivah" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://thezivah.com # the base hostname & protocol for your site
 author: Ruchi Pahuja
 street_address: Central Suburb
 city: Mumbai
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+#github_url:
+#gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+linkedin_url: https://www.linkedin.com/
+#pinterest_url:
+#slack_url:
+twitter_url: https://twitter.com/
 
 # build settings
 markdown: kramdown
