@@ -74,4 +74,31 @@ show_tile: true
 	</div>
 </section>
 
+<section>
+	<div class="inner">
+		<header class="major">
+			<h1>Workshops</h1>
+		</header>
+	</div>
+</section>
+
+<section class="workshops">
+	<div class="inner">
+		<header class="major">
+			<h2>Reiki Level I- Two Day Workshop</h2>
+		</header>
+		<p>
+			<ul>
+				<li>Introduction to Reiki and information about Chakras</li>
+				<li>Principles of Reiki</li>
+				<li>Knowledge on how to heal self and others using a hands-on technique</li>
+				<li>Meditation</li>
+				<li>Energy Balancing</li>
+				<li>Manual</li>
+				<li>Level I Certificate</li>
+			</ul>
+		</p>
+	</div>
+</section>
+
 </div>
