@@ -243,7 +243,7 @@ show_tile: true
 				<li>Understanding your soul purpose</li
 				<li>Understanding life at a deeper leve</li>
 				<li>Access profound levels of creativity andclarity of thought</li>
-				<li>Knowing your life purpose</li
+				<li>Knowing your life purpose</li>
 				<li>Information on Ancestral Linege</li>
 			</ul>
 		</p>
