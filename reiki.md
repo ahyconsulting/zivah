@@ -45,12 +45,21 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>What can you experience in a Reiki healing session?</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
+				<p>
+					<ul>
+						<li> Reduced stress, anxiety and brings in peace</li>
+						<li> Promoting balance by harmonizing and restoring energy system by removing mental and emotional blocks.</li>
+						<li> Helping the elimination of toxins from the body</li>
+						<li> Helping in releasing suppressed emotions</li>
+						<li> Helps in healing at all levels - physical, mental, emotional and spiritual</li>
+						<li> Promoting natural balance between mind, body, and spirit</li>
+					</ul>
+				</p>
+				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</section>
