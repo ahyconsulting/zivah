@@ -14,7 +14,7 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Reiki</h2>
+			<h1>Reiki</h1>
 		</header>
 		<p>Reiki is a spiritual healing practice developed in 1922 by Dr. Mikao Usui in Japan. The word “Rei” means Universal, and “Ki” means life force energy. Reiki energy is channelled from the Practitioner to the patient in two ways - hands-on technique and distance healing. Reiki energy targets the energy fields around the body.</p>
 	</div>
@@ -135,6 +135,48 @@ show_tile: true
 		</p>
 		<p>Reiki Master Teacher</p>
 		<p>Reiki Grand Teacher</p>
+		<p>For more details on workshop and healing session contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
+	</div>
+</section>
+
+<section>
+	<div class="inner">
+		<header class="major">
+			<h1>Angelic Healing</h1>
+		</header>
+			<p>
+			Did you know every being on earth is guarded by their angles, and many of us aren’t even aware of this divine power. Angels are celestial beings and messengers of God. They act as mediators between humans and God. Angelic Healing is a powerful, useful, and safe means that helps us in gaining heavenly guidance and assistance in times of need. Angels are directed towards human benefit for their protection and healing in every aspect of life.
+	 		</p>
+			<p>
+			The Archangels and Guardian Angels who always surround us are overseen by the ‘Universal Law of Free Will’ which means they can intervene only when given permission. Angels always guide us in our highest and greatest good with unconditional love and compassion. You can use Angelic Healing for the highest good of yourself and everyone involved. Angelic healing helps to uplift all areas of your life, therefore, to call upon your guardian angels learn this powerful healing modality and experience the magic!
+			</p>
+
+	</div>
+</section>
+
+<section class="workshops">
+	<div class="inner">
+		<header class="major">
+			<h2>Angelic Healing Workshop</h2>
+		</header>
+		<p>
+			<ul>
+				<li>All About Angels</li>
+				<li>Archangels</li>
+				<li>Receive Answers and Guidance by connecting with Guardian Angels for self and others</li>
+				<li>Aura Scanning</li>
+				<li>Angel Healing</li>
+				<li>Angel Oracle Card Reading</li>
+				<li>Past Life Regression with Angels</li>
+				<li>Mediumship</li>
+				<li>Removing Psychic hooks and Clearing Aura</li>
+				<li>Angel Numbers and meaning</li>
+				<li>Inner Child Healing</li>
+				<li>House Cleansing with Angels</li>
+				<li>Manual</li>
+				<li>Certificate</li>
+			</ul>
+		</p>
 		<p>For more details on workshop and healing session contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
 	</div>
 </section>
