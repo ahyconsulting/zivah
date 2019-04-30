@@ -320,4 +320,43 @@ show_tile: true
 	</div>
 </section>
 
+<section>
+	<div class="inner">
+		<header class="major">
+			<h1>Yoga</h1>
+		</header>
+		<p>
+		The word ‘Yoga’ means Union in Sanskrit. The practice of yoga leads to the union of a person with his true essence. The Spiritual tradition of yoga began in India nearly about 5000 years ago. Patanjali, the author of the classic “Yoga Sutra” defined yoga as the quieting of the fluctuations of the mind. Nowadays, people think stretching and strengthening poses known as 'asanas' is yoga. However, 'asanas' are only one of the aspects of yoga practice. It also includes breathing practice known as pranayama, chanting, visualization exercises, meditation techniques, moral principles against stealing, lying, doing harm to yourself or others, etc.
+ 		</p>
+ 		<p>
+		Benefits of Yoga are innumerable, but one can experience and feel the difference. Yoga vitalizes your health, uplifts positive energy, promotes flexibility, helps in weight loss, improves overall health and much more. Since the benefits of yoga are endless, you must book a yoga session right away to feel the difference!
+ 		</p>
+
+	</div>
+</section>
+
+<section class="workshops" id="crystalworkshops">
+	<div class="inner">
+		<header class="major">
+			<h2>Benefits of Yoga Practice</h2>
+		</header>
+		<p>
+			<ul>
+				<li>Improves concentration and memory</li>
+				<li>Increases flexibility</li>
+				<li>Weight reduction</li>
+				<li>Improved respiration, energy, and vitality</li>
+				<li>Reduces stress, relieves anxiety</li>
+				<li>Improves overall quality of life</li>
+				<li>Helps in fighting depression</li>
+				<li>Reduces Chronic Pain</li>
+				<li>Promotes better sleep</li>
+				<li>Improves immunity</li>
+				<li>Promotes healthy eating habits</li>
+			</ul>
+		</p>
+		<p>For more information on the personal, group and corporate yoga contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
+	</div>
+</section>
+
 </div>
