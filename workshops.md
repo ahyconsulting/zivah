@@ -200,7 +200,7 @@ show_tile: true
 			</p>
 			<p>
 				<ul class="actions">
-					<li><a href="#akashikworkshops" class="button">Learn more</a></li>
+					<li><a href="#akashikworkshops" class="button next scrolly">Learn more</a></li>
 				</ul>
 			</p>
 	</div>
@@ -264,7 +264,7 @@ show_tile: true
 	 		</p>
 			<p>
 				<ul class="actions">
-					<li><a href="#crystalworkshops" class="button">Learn more</a></li>
+					<li><a href="#crystalworkshops" class="button next scrolly">Learn more</a></li>
 				</ul>
 			</p>
 	</div>
