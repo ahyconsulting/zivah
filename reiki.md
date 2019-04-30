@@ -181,4 +181,54 @@ show_tile: true
 	</div>
 </section>
 
+<section>
+	<div class="inner">
+		<header class="major">
+			<h1>Akashic Healing</h1>
+		</header>
+			<p>
+			Akashic records are the record of a soul’s journey from the beginning of time and have been referred to as the “Book of Remembrance” in Torah, “The Book of Life” in Bible, Yamaraj’s assistant Chitragupta’s “Book of Karma” in Hindu scriptures.
+	 		</p>
+			<p>
+			Akashic is derived from the Sanskrit word “Akasha” which means ether or space. The Akashic record is a collection of a soul’s emotions, actions, thoughts, words, events, intent that has ever occurred in each lifetime. Your masters, guides, teachers, and the beings of light keep a track of this information for you.
+			</p>
+			<p>
+			By accessing the Akashic Records you receive knowledge and information that supports in our growth at all levels. Akashic records reading reveal the specific details that are required at this point in your soul’s journey. It also reveals events from the past that needs to be healed and released.
+			</p>
+			<p>
+			Akashic reading sessions are the most uplifting and helpful. Anyone can do Akashic reading for the betterment of their life. However, if you are going through the below-mentioned life situations, then you should book a session to emerge, as a whole, happy and beautiful human you are supposed to be.
+			</p>
+			<p>
+				<ul class="actions">
+					<li><a href="#akashikworkshops" class="button">Learn more</a></li>
+				</ul>
+			</p>
+	</div>
+</section>
+
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Are you experiencing any of the following circumstances?</h3>
+				</header>
+				<p>
+					<ul>
+						<li>Feeling Frustrated and stuck in your life?</li>
+						<li>No clarity regarding your professional life?</li>
+						<li>Recurring life patterns (Personal or Professional)?</li>
+						<li>Financial Losses?</li>
+						<li>Difficulties in your relationships?</li>
+						<li>Experiencing lower emotions like anger, sadness, jealousy, revenge, etc.?</li>
+					</ul>
+				</p>
+			</div>
+		</div>
+	</section>
+</section>
+
 </div>
