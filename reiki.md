@@ -117,5 +117,26 @@ show_tile: true
 		</p>
 	</div>
 </section>
+<section class="workshops">
+	<div class="inner">
+		<header class="major">
+			<h2>Reiki Level III – Two Day Workshop</h2>
+		</header>
+		<p>
+			<ul>
+				<li>Tapping into the Third Eye</li>
+				<li>Healing Chakras</li>
+				<li>Aura scanning</li>
+				<li>Quick ways of healing in distance</li>
+				<li>Third Eye meditation with Crystal Pyramid and much more.</li>
+				<li>Manual</li>
+				<li>Level III Certificate</li>
+			</ul>
+		</p>
+		<p>Reiki Master Teacher</p>
+		<p>Reiki Grand Teacher</p>
+		<p>For more details on workshop and healing session contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
+	</div>
+</section>
 
 </div>
