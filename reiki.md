@@ -100,5 +100,22 @@ show_tile: true
 		</p>
 	</div>
 </section>
+<section class="workshops">
+	<div class="inner">
+		<header class="major">
+			<h2>Reiki Level II- Two Day Workshop</h2>
+		</header>
+		<p>
+			<ul>
+				<li>Distance Scanning and Healing</li>
+				<li>Shielding with Reiki for self, loved ones, house, business, valuables, etc.</li>
+				<li>Energizing home and office</li>
+				<li>Chakra Meditation for aligning and balancing chakras, etc.</li>
+				<li>Manual</li>
+				<li>Level II Certificate</li>
+			</ul>
+		</p>
+	</div>
+</section>
 
 </div>
