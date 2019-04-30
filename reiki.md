@@ -250,7 +250,7 @@ show_tile: true
 		<p>
 		Akashic healing an interactive session, where you can ask questions and receive reading accordingly. Records enlighten us on our current situation and give guidance for our future path, bringing in peace, harmony, happiness, and joy. As we are the architect of our own destiny, we can build a better future.
 		</p>
-		<p>To get a guidance book an Akashic session with us contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
+		<p>To get a guidance book an Akashic session with us. Contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
 	</div>
 </section>
 
@@ -264,7 +264,7 @@ show_tile: true
 	 		</p>
 			<p>
 				<ul class="actions">
-					<li><a href="#akashikworkshops" class="button">Learn more</a></li>
+					<li><a href="#crystalworkshops" class="button">Learn more</a></li>
 				</ul>
 			</p>
 	</div>
@@ -295,6 +295,29 @@ show_tile: true
 			</div>
 		</div>
 	</section>
+</section>
+
+<section class="workshops" id="crystalworkshops">
+	<div class="inner">
+		<header class="major">
+			<h2>Attending a crystal healing workshop offers the following benefits</h2>
+		</header>
+		<p>
+			<ul>
+				<li>Clarity in thought</li>
+				<li>Promotes a positive outlook in life</li>
+				<li>Accelerates healing</li>
+				<li>Reduces aches and pains</li>
+				<li>Calms mind by eliminating stress</li>
+				<li>Heals aura, mind and body</li>
+				<li>Shielding against bad energies</li>
+				<li>Promotes abundance and growth in all aspects of life</li>
+				<li>Removes blockages and clears chakras</li>
+
+			</ul>
+		</p>
+		<p>To get a guidance book a crystal session with us. Contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
+	</div>
 </section>
 
 </div>
