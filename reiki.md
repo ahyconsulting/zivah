@@ -239,8 +239,8 @@ show_tile: true
 		<p>
 			<ul>
 				<li>Understanding the root cause of recurring issues</li>
-				<li>Bringing positive change into your lifestyle</li
-				<li>Understanding your soul purpose</li
+				<li>Bringing positive change into your lifestyle</li>
+				<li>Understanding your soul purpose</li>
 				<li>Understanding life at a deeper leve</li>
 				<li>Access profound levels of creativity andclarity of thought</li>
 				<li>Knowing your life purpose</li>
