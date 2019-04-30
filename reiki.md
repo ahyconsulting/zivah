@@ -335,7 +335,7 @@ show_tile: true
 	</div>
 </section>
 
-<section class="workshops" id="crystalworkshops">
+<section class="workshops" id="yogaworkshops">
 	<div class="inner">
 		<header class="major">
 			<h2>Benefits of Yoga Practice</h2>
@@ -353,6 +353,43 @@ show_tile: true
 				<li>Promotes better sleep</li>
 				<li>Improves immunity</li>
 				<li>Promotes healthy eating habits</li>
+			</ul>
+		</p>
+		<p>For more information on the personal, group and corporate yoga contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
+	</div>
+</section>
+
+<section>
+	<div class="inner">
+		<header class="major">
+			<h1>Merlin Trinity Healing</h1>
+		</header>
+		<p>
+		The Merlin Trinity Healing System (MTH) is a system in which the powerful combination of universal love and infinite intelligence helps the body to heal on the emotional, physical and mental level. The whole system consists of five levels and was channelled (accessed from a higher reality) into existence by Mark Anup Karlsson in 1990. MTHS is easy to learn and use and could be described as on the most transformational healing modalities today.
+ 		</p>
+ 		<p>
+		Once you experience Merlin Trinity Healing, you will adhere to it for a lifetime. The benefits are immeasurable. To experience the energies and magic of MTHS book a session with us now!
+ 		</p>
+	</div>
+</section>
+
+<section class="workshops" id="mthworkshops">
+	<div class="inner">
+		<header class="major">
+			<h2>Benefits of MTHS</h2>
+		</header>
+		<p>
+			<ul>
+				<li>Promotes good health</li>
+				<li>Helps to let go of the emotional baggage</li>
+				<li>Cleanses aligns and balances chakras</li>
+				<li>Heals at all levels physical, mental, spiritual</li>
+				<li>Helps in ascension</li>
+				<li>Clears blockages at all levels</li>
+				<li>Brings in peace and harmony in oneself and with others</li>
+				<li>Clears financial obstacles</li>
+				<li>Promotes an abundance mindset</li>
+				<li>Helps in reshaping your life for a better future and much more</li>
 			</ul>
 		</p>
 		<p>For more information on the personal, group and corporate yoga contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
