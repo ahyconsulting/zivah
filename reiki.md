@@ -231,4 +231,70 @@ show_tile: true
 	</section>
 </section>
 
+<section class="workshops" id="akashikworkshops">
+	<div class="inner">
+		<header class="major">
+			<h2>What to Expect from an Akashic Healing Session?</h2>
+		</header>
+		<p>
+			<ul>
+				<li>Understanding the root cause of recurring issues</li>
+				<li>Bringing positive change into your lifestyle</li
+				<li>Understanding your soul purpose</li
+				<li>Understanding life at a deeper leve</li>
+				<li>Access profound levels of creativity andclarity of thought</li>
+				<li>Knowing your life purpose</li
+				<li>Information on Ancestral Linege</li>
+			</ul>
+		</p>
+		<p>
+		Akashic healing an interactive session, where you can ask questions and receive reading accordingly. Records enlighten us on our current situation and give guidance for our future path, bringing in peace, harmony, happiness, and joy. As we are the architect of our own destiny, we can build a better future.
+		</p>
+		<p>To get a guidance book an Akashic session with us contact +91 9833 77 97 35 or email us at <a href="mailto:thezivah@gmail.com">thezivah@gmail.com</a></p>
+	</div>
+</section>
+
+<section>
+	<div class="inner">
+		<header class="major">
+			<h1>Crystal Healing</h1>
+		</header>
+			<p>
+			Crystal healing is an alternative healing technique that uses semi-precious stones and crystals such as Quartz, Amethyst, etc. These crystal are found in various combination of minerals that give them a specific color, shape, and identity which decides its healing property. Crystals are energy amplifiers, therefore they help to cure acute and chronic ailments and protect against diseases. Human and crystals have water element, therefore the human body reacts very well when healed with crystals.
+	 		</p>
+			<p>
+				<ul class="actions">
+					<li><a href="#akashikworkshops" class="button">Learn more</a></li>
+				</ul>
+			</p>
+	</div>
+</section>
+
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<p>
+				Use of crystal for the healing purpose was extensive during ancient times, and even today people wear or carry the precious or semi-precious stones for healing and protection. Crystal or Crystal Healing work wonders if;
+				</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<p>
+				If you want more abundance in business or job, open the ways of earning and material benefits, want happy and peaceful relationships, protection against low or bad energies, harmony at home and office, remove any recurring health issue, then immediately book a crystal healing session with us or enrol for a crystal healing workshop.
+				</p>
+			</div>
+		</div>
+	</section>
+</section>
+
 </div>
