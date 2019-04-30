@@ -1,5 +1,5 @@
 ---
-title: Reiki
+title: Workshops
 layout: page
 description: ''
 image: assets/images/pic04.jpg
