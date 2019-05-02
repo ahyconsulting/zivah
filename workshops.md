@@ -10,8 +10,8 @@ show_tile: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
+<!-- REIKI -->
+<section id="reikisection">
 	<div class="inner">
 		<header class="major">
 			<h1>Reiki</h1>
@@ -139,7 +139,8 @@ show_tile: true
 	</div>
 </section>
 
-<section>
+<!-- Angelic Healing Section -->
+<section id="angelicsection">
 	<div class="inner">
 		<header class="major">
 			<h1>Angelic Healing</h1>
@@ -181,7 +182,8 @@ show_tile: true
 	</div>
 </section>
 
-<section>
+<!-- Akashic Records Section -->
+<section id="akashicsection">
 	<div class="inner">
 		<header class="major">
 			<h1>Akashic Records Reading</h1>
@@ -254,7 +256,8 @@ show_tile: true
 	</div>
 </section>
 
-<section>
+<!-- Crystal Healing Section -->
+<section id="crystalsection">
 	<div class="inner">
 		<header class="major">
 			<h1>Crystal Healing</h1>
@@ -320,7 +323,8 @@ show_tile: true
 	</div>
 </section>
 
-<section>
+<!-- Yoga Section -->
+<section id="yogasection">
 	<div class="inner">
 		<header class="major">
 			<h1>Yoga</h1>
@@ -359,7 +363,8 @@ show_tile: true
 	</div>
 </section>
 
-<section>
+<!-- Merlin Trinity Healing Section  -->
+<section id="mthsection">
 	<div class="inner">
 		<header class="major">
 			<h1>Merlin Trinity Healing</h1>
