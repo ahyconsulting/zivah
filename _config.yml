@@ -18,16 +18,16 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 2
 
 # social settings
-500px_url:
+#500px_url:
 facebook_url:
 #github_url:
 #gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/
+#googleplus_url: https://plus.google.com/u/0/
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/
+#linkedin_url: https://www.linkedin.com/
 #pinterest_url:
 #slack_url:
-twitter_url: https://twitter.com/
+t#witter_url: https://twitter.com/
 
 # build settings
 markdown: kramdown
