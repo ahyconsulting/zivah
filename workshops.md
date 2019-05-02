@@ -16,7 +16,9 @@ show_tile: true
 		<header class="major">
 			<h1>Reiki</h1>
 		</header>
-		<p>Reiki is a spiritual healing practice developed in 1922 by Dr. Mikao Usui in Japan. The word “Rei” means Universal, and “Ki” means life force energy. Reiki energy is channelled from the Practitioner to the patient in two ways - hands-on technique and distance healing. Reiki energy targets the energy fields around the body.</p>
+		<p>
+		Reiki is a spiritual healing practice developed in 1922 by Dr. Mikao Usui in Japan. The word “Rei” means Universal, and “Ki” means life force energy. Reiki energy is channelled from the Practitioner to the patient in two ways i.e. hands-on technique and distance healing. Reiki energy targets the energy fields around the body.
+		</p>
 	</div>
 </section>
 
@@ -31,7 +33,9 @@ show_tile: true
 				<header class="major">
 					<h3>How does Reiki work?</h3>
 				</header>
-				<p>Energy can stagnate in the body and could create blockages in a person’s emotional and physical wellbeing. The energy blockages can further be a cause of illness. Reiki aims to unblock the stagnant energy or remove any kind of imbalances. It brings relaxation, eases the pain, speeds up recovery and much more. Reiki also compliments medical treatment and other therapies.</p>
+				<p>
+				Energy can stagnate in the body and could create blockages in a person’s emotional and physical wellbeing. The energy blockages can further be a cause of illness. Reiki aims to unblock the stagnant energy or remove any kind of imbalances. It brings relaxation, eases the pain, speeds up recovery and much more. Reiki also compliments medical treatment and other therapies.
+				</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
