@@ -64,6 +64,10 @@ show_tile: true
 		I am Ruchi Pahuja Pesricha - I'm thankful and grateful that you are here! Love and Light!
 		</p>
 
+		<ul class="actions">
+			<li><a href={{ page.url | relative_url  }}workshops" class="button">Check All Workshops</a></li>
+		</ul>
+
 	</div>
 </section>
 
