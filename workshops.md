@@ -14,7 +14,7 @@ show_tile: true
 <section id="reikisection">
 	<div class="inner">
 		<header class="major">
-			<h1><br/><br/><br/>Reiki</h1>
+			<h1><br/><br/>Reiki</h1>
 		</header>
 		<p>
 		Reiki is a spiritual healing practice developed in 1922 by Dr. Mikao Usui in Japan. The word “Rei” means Universal, and “Ki” means life force energy. Reiki energy is channelled from the Practitioner to the patient in two ways i.e. hands-on technique and distance healing. Reiki energy targets the energy fields around the body.
