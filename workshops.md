@@ -53,12 +53,12 @@ show_tile: true
 				</header>
 				<p>
 					<ul>
-						<li> Reduced stress, anxiety and brings in peace</li>
-						<li> Promoting balance by harmonizing and restoring energy system by removing mental and emotional blocks.</li>
-						<li> Helping the elimination of toxins from the body</li>
-						<li> Helping in releasing suppressed emotions</li>
-						<li> Helps in healing at all levels - physical, mental, emotional and spiritual</li>
-						<li> Promoting natural balance between mind, body, and spirit</li>
+					<li class="c1"><span class="c0">Reduces stress, anxiety and brings in peace.</span></li>
+					<li class="c1"><span class="c0">Promotes balance by harmonizing and restoring energy system by removing mental and emotional blocks.</span></li>
+					<li class="c1"><span class="c0">Helps in eliminating toxins from the body.</span></li>
+					<li class="c1"><span class="c0">Helps in releasing suppressed emotions.</span></li>
+					<li class="c1"><span class="c0">Helps in Healing at all levels - physical, mental, emotional and spiritual.</span></li>
+					<li class="c1"><span class="c0">Promotes natural balance between mind, body, and spirit.</span></li>
 					</ul>
 				</p>
 				<!-- <ul class="actions">
