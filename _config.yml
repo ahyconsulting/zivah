@@ -11,7 +11,7 @@ city: Mumbai
 state: MH
 zip_code: 400078
 country: India
-phone: (+91) ABC-555-5555
+phone: (+91) 9833779735
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -19,11 +19,11 @@ tiles-count: 2
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/Cards-Of-Life-951011148302257/
 #github_url:
 #gitlab_url: https://gitlab.com/u/andrewbanchich
 #googleplus_url: https://plus.google.com/u/0/
-instagram_url: https://instagram.com
+#instagram_url: https://instagram.com
 #linkedin_url: https://www.linkedin.com/
 #pinterest_url:
 #slack_url:
