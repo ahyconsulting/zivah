@@ -65,7 +65,7 @@ show_tile: true
 		</p>
 
 		<ul class="actions">
-			<li><a href="{{ site.url | relative_url  }}workshops" class="button next">Check All Workshops</a></li>
+			<li><a href="{{ site.url | relative_url  }}/workshops" class="button next">Check All Workshops</a></li>
 		</ul>
 
 	</div>
