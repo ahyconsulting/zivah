@@ -2,7 +2,7 @@
 title: About Me
 layout: page
 description: ''
-image: assets/images/pic07.jpg
+image: assets/images/ruchiaboutme.jpeg
 nav-menu: true
 show_tile: true
 ---
