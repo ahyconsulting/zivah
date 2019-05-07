@@ -22,6 +22,10 @@ show_tile: true
 		</p>
 
 		<p>
+		Namaste, I am Ruchi Pahuja Pesricha. I am a Spiritual Healer, Yoga Teacher, and a Life Coach. I would like to share with you my personal experience of How I was introduced to Spirituality and, how these spiritual modalities over the years helped me to grow as a person.
+		</p>
+
+		<p>
 		Allow me to take you through my spiritual journey
 		</p>
 
