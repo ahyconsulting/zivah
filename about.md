@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: post
+layout: page
 description: ''
 image: assets/images/ruchiaboutme.jpeg
 nav-menu: true
