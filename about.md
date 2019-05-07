@@ -30,3 +30,7 @@ Angelic Healing helped me in manifesting on a faster level and to gain guidance 
 Spirituality helped in a much deeper level than I can express in words. The best we can do for ourselves is to find ourselves to become a happy, peaceful, balanced and joyful person. I am here to assist you in doing so.
 
 I am Ruchi Pahuja Pesricha - I'm thankful and grateful that you are here! Love and Light!
+
+<ul class="actions">
+	<li><a href="{{ site.url | relative_url  }}/workshops" class="button next">Check All Workshops</a></li>
+</ul>
