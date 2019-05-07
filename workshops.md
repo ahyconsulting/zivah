@@ -25,7 +25,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/reiki.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -37,13 +37,13 @@ show_tile: true
 				Energy can stagnate in the body and could create blockages in a person’s emotional and physical wellbeing. The energy blockages can further be a cause of illness. Reiki aims to unblock the stagnant energy or remove any kind of imbalances. It brings relaxation, eases the pain, speeds up recovery and much more. Reiki also compliments medical treatment and other therapies.
 				</p>
 				<!-- <ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Learn more</a></li>
 				</ul> -->
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/back-view-backlit-beach-1535244.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -62,7 +62,7 @@ show_tile: true
 					</ul>
 				</p>
 				<!-- <ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Learn more</a></li>
 				</ul> -->
 			</div>
 		</div>
@@ -129,11 +129,11 @@ show_tile: true
 		<p>
 			<ul>
 				<li class="c1"><span class="c0">Tapping into the Third Eye</span></li>
-				<li class="c1"><span class="c0">&nbsp;Healing Chakras</span></li>
+				<li class="c1"><span class="c0">Healing Chakras</span></li>
 				<li class="c1"><span class="c0">Aura Scanning</span></li>
 				<li class="c1"><span class="c0">Quick ways of Healing in Distance</span></li>
 				<li class="c1"><span class="c0">Third Eye meditation with Crystal Pyramid and much more.</span></li>
-				<li class="c1"><span class="c0">&nbsp;Manual</span></li>
+				<li class="c1"><span class="c0">Manual</span></li>
 				<li class="c1"><span class="c0">Level III Certificate</span></li>
 			</ul>
 		</p>
@@ -152,11 +152,26 @@ show_tile: true
 			<p>
 			Did you know every being on earth is guarded by their angles, and many of us aren’t even aware of this? Angels are celestial beings and messengers of God. They act as mediators between Humans and God. Angelic Healing is a powerful, useful, and safe means that enables one in gaining heavenly guidance and assistance in times of need. Angels are directed towards human benefit for their protection and healing in every aspect of life.
 	 		</p>
-			<p>
-			The Archangels and Guardian Angels who always surround us are overseen by the ‘Universal Law of Free Will’ which means they can intervene only when given permission. Angels always guide us in our highest and greatest good with unconditional love and compassion. You can use Angelic Healing for the highest good of yourself and everyone involved. Angelic healing helps to uplift all areas of your life, therefore to call upon your guardian angels learn this powerful healing modality and experience the magic!
-			</p>
 
 	</div>
+</section>
+
+<section class="spotlights">
+	<section>
+		<a href="#" class="image">
+			<img src="assets/images/angelic healing.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<p>
+				The Archangels and Guardian Angels who always surround us are overseen by the ‘Universal Law of Free Will’ which means they can intervene only when given permission. Angels always guide us in our highest and greatest good with unconditional love and compassion. You can use Angelic Healing for the highest good of yourself and everyone involved. Angelic healing helps to uplift all areas of your life, therefore to call upon your guardian angels learn this powerful healing modality and experience the magic!
+				</p>
+				<!-- <ul class="actions">
+					<li><a href="#" class="button">Learn more</a></li>
+				</ul> -->
+			</div>
+		</div>
+	</section>
 </section>
 
 <section class="workshops">
@@ -193,6 +208,9 @@ show_tile: true
 			<h1>Akashic Records Reading</h1>
 		</header>
 			<p>
+				<img src="assets/images/akashicrecordswa.jpeg" alt="" data-position="center center" />
+			</p>
+			<p>
 			Akashic records are the record of a soul’s journey from the beginning of time and have been referred to as the “Book of Remembrance” in Torah, “The Book of Life” in Bible, Yamaraj’s assistant Chitragupta’s “Book of Karma” in Hindu Scriptures.
 	 		</p>
 			<p>
@@ -214,7 +232,7 @@ show_tile: true
 
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/anger-angry-anxiety-897817.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -282,7 +300,7 @@ show_tile: true
 
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/blur-close-up-crystal-1548091.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -294,7 +312,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="#" class="image">
 			<img src="assets/images/lotus-1205631_640.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -341,6 +359,9 @@ show_tile: true
 			<h1>Yoga</h1>
 		</header>
 		<p>
+			<img src="assets/images/yoga.jpg" alt="" data-position="center center" />
+		</p>
+		<p>
 		The word Yoga means Union in Sanskrit. The practice of yoga leads to the union of a person with his true essence. The Spiritual tradition of yoga began in India nearly about 5000 years ago. Patanjali, the author of the classic text “Yoga Sutra” defined yoga as the quieting of the fluctuations of the mind. Nowadays, people think stretching and strengthening poses known as 'asanas' is yoga. However, 'asanas' are only one of the aspects of yoga practice. It also includes breathing practice known as pranayama, chanting, visualization exercises, meditation techniques, moral principles against stealing, lying, doing harm to yourself or others, etc.
  		</p>
  		<p>
@@ -380,6 +401,9 @@ show_tile: true
 		<header class="major">
 			<h1>Merlin Trinity Healing</h1>
 		</header>
+		<p>
+			<img src="assets/images/merlinws.jpg" alt="" data-position="center center" />
+		</p>
 		<p>
 		The Merlin Trinity Healing System (MTHS) is a system in which the powerful combination of universal love and infinite intelligence helps the body to heal on the emotional, physical and mental level. The whole system consists of five levels and was channelled (accessed from a higher reality) into existence by Mark Anup Karlsson in 1990. MTHS is easy to learn and use and could be described as one of the most transformational healing modalities today.
  		</p>
