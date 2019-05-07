@@ -359,7 +359,7 @@ show_tile: true
 			<h1>Yoga</h1>
 		</header>
 		<p>
-			<img src="assets/images/yoga.jpg" alt="" data-position="center center" />
+			<img src="assets/images/yogawa.jpeg" alt="" data-position="center center" />
 		</p>
 		<p>
 		The word Yoga means Union in Sanskrit. The practice of yoga leads to the union of a person with his true essence. The Spiritual tradition of yoga began in India nearly about 5000 years ago. Patanjali, the author of the classic text “Yoga Sutra” defined yoga as the quieting of the fluctuations of the mind. Nowadays, people think stretching and strengthening poses known as 'asanas' is yoga. However, 'asanas' are only one of the aspects of yoga practice. It also includes breathing practice known as pranayama, chanting, visualization exercises, meditation techniques, moral principles against stealing, lying, doing harm to yourself or others, etc.
