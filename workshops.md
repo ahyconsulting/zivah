@@ -214,6 +214,9 @@ show_tile: true
 			Akashic records are the record of a soul’s journey from the beginning of time and have been referred to as the “Book of Remembrance” in Torah, “The Book of Life” in Bible, Yamaraj’s assistant Chitragupta’s “Book of Karma” in Hindu Scriptures.
 	 		</p>
 			<p>
+				<img src="assets/images/badge.png" alt="" data-position="center center" />
+			</p>
+			<p>
 			Akashic is derived from the Sanskrit word “Akasha” which means ether or space. The Akashic record is a collection of a soul’s emotions, actions, thoughts, words, events, intent that has ever occurred in each lifetime. Your Masters, Guides, Teachers, and the beings of light keep a track of this information for you.
 			</p>
 			<p>
