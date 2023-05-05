@@ -33,7 +33,7 @@ show_tile: true
 		{% assign current_year = 'now' | date: "%Y" %}
 		{% assign start_year = 2012 %}
 		{% assign years_passed = current_year | minus: start_year %}
-		I started my journey {{ years_passed }} years back in June 2012. I was a beautician and hair stylist back then. Although been into this profession for 6 years, I was facing many challenges. I was going through financial instability, a bad relationship, and my introvert nature. My business was sinking, and everything was going haywire. I had no clarity as to what was to be done regarding personal and professional life.
+		I started my journey {{ years_passed }} years back in June 2012. I was a beautician and hair stylist back then. Although been into this profession for {{ years_passed }} years, I was facing many challenges. I was going through financial instability, a bad relationship, and my introvert nature. My business was sinking, and everything was going haywire. I had no clarity as to what was to be done regarding personal and professional life.
 		</p>
 
 		<p>
