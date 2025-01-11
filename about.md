@@ -9,7 +9,6 @@ show_tile: true
 
 <!-- Main -->
 <div id="main">
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
